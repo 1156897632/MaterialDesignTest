@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity
 
         Log.d("TAG","hahahhahahaa");
         Log.d("TAG","hahahhahahaa");
+        Log.d("TAG","hahahhahahaa");
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
